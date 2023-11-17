@@ -1,7 +1,6 @@
 
-<style>
-    h1 {text-align: center;}
-    h6 {text-align: center;}
-    h6 {word-spacing: 25px;}
-</style>
-        
+header {
+    text-align: center;
+    background-color: rgba(88, 186, 186, 0.364);
+    padding: 0 0 0px 0;
+  } 
