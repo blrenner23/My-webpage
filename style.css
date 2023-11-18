@@ -1,6 +1,16 @@
 
 header {
     text-align: center;
-    background-color: rgba(88, 186, 186, 0.364);
+    background-color: rgba(55, 67, 67, 0.364);
     padding: 0 0 0px 0;
   } 
+  
+  .contact a:hover {color: aqua;}
+  .contact a:visited {color:cadetblue}
+
+nav {
+   text-align: center;
+   word-spacing: 10px;
+   } 
+nav div a:hover {color:aqua}
+nav div a:visited {color: cadetblue}
