@@ -18,7 +18,18 @@ nav {
    } 
 nav div a:hover {color:aqua}
 nav div a:visited {color: cadetblue}
+.home {
+  text-align: center;
+  font-size: 50px;
+}
+.resume {
+  text-align: center;
+  font-size: 15px;
+}
 
+.education {
+  font-size: 45px
+}
 
 
 #headshot {
