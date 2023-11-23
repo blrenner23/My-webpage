@@ -35,6 +35,9 @@ nav div a:visited {color: cadetblue}
 .bronco{
   font-size: 30px;
 }
+.GPA {
+ font-size: 30px;
+}
 .experience {
   font-size: 45px;
   text-align: center;
@@ -52,4 +55,5 @@ nav div a:visited {color: cadetblue}
 footer {
   text-align: center;
   background-color: rgba(50, 51, 51, 0.556);
+  padding: 20px 20px 20px 20px;
 }
