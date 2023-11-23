@@ -40,7 +40,10 @@ nav div a:visited {color: cadetblue}
   text-align: center;
 }
 
-
+.personal {
+  font-size: 45px;
+  text-align: center;
+}
 #headshot {
   width: 100px;
   height: 100px;
