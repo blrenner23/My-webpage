@@ -28,13 +28,22 @@ nav div a:visited {color: cadetblue}
 }
 
 .education {
-  font-size: 45px
+  font-size: 45px;
+  text-align:center;
+}
+
+.bronco{
+  font-size: 30px;
+}
+.experience {
+  font-size: 45px;
+  text-align: center;
 }
 
 
 #headshot {
-  width: 75px;
-  height: 75px;
+  width: 100px;
+  height: 100px;
 }
 
 footer {
