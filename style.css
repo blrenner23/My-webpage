@@ -8,7 +8,8 @@ header {
     word-spacing: 10px;
     
 }
-.contact a:hover {color: rgb(0, 0, 0);}
+.contact a:link {color:black}
+.contact a:hover {color: rgba(0, 0, 0, 0.467);}
 .contact a:visited {color:rgb(255, 255, 255)}
 
 
@@ -16,7 +17,8 @@ nav {
    text-align: center;
    word-spacing: 10px;
    } 
-nav div a:hover {color:aqua}
+nav div a:link {color:aqua}
+nav div a:hover {color:rgba(0, 255, 255, 0.336)}
 nav div a:visited {color: cadetblue}
 .home {
   text-align: center;
