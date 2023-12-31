@@ -52,6 +52,14 @@ nav div a:visited {color: cadetblue}
 #headshot {
   width: 100px;
   height: 100px;
+
+}
+#headshot {
+  transition: transform 0.3s ease-in-out;
+}
+
+#headshot:hover {
+  transform: scale(1.1); /* Increase the size on hover */
 }
 
 footer {
